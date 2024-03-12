@@ -1,10 +1,10 @@
 # Favorite Food
 
-This project is a simple HTML webpage showcasing your favorite food items, designed to share your culinary preferences with others.
+🍔 This project is a simple HTML webpage showcasing your favorite food items, designed to share your culinary preferences with others.
 
 ## Overview
 
-The Favorite Food webpage provides a platform for displaying a curated list of your favorite food items. It allows users to explore and learn about your culinary preferences, including dishes, cuisines, and recipes that you enjoy the most.
+🍕 The Favorite Food webpage provides a platform for displaying a curated list of your favorite food items. It allows users to explore and learn about your culinary preferences, including dishes, cuisines, and recipes that you enjoy the most.
 
 ## Features
 
